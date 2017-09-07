@@ -15,7 +15,7 @@ Remember your replacement is on it’s way. The day it arrives at home if you do
 ## Mechanics
 The game plays like an RPG. Movement is seen from 3rd person. Boss battles may have JPRPGesque feel.
 
-# Proposal for Game 1: Text/TilesS
+# Proposal for Game 1: Text/Tiles
 
 ## Day1
 
@@ -42,4 +42,24 @@ Having your power cable unplugged. Full game will in fact prevent you from havin
 I have no scenarios yet. Please make up some text.
 I may not have all the assets necessary. I have some experience in pixel art. I may or may not create all the required assets worst case find them on the internet. I lost my mouse I have some difficulty drawing without one. So….
 
-Will try to share some screenshots in due time, stay tuned...
+## Gameplay and explanations
+![screenshot](https://github.com/rahulbal/VacuumCleanerOverlord/blob/master/screenshot.png)
+
+Start location
+
+![movement](https://github.com/rahulbal/VacuumCleanerOverlord/blob/master/screenshot2.png)
+
+**Optional**
+As you move the chord is placed on the ground the remaining steps are updated
+
+![stepcount](https://github.com/rahulbal/VacuumCleanerOverlord/blob/master/screenshot3.png)
+
+When close enough a button hit will bring up the text and conversations
+**Optional** add meaningful text
+
+![retreat](https://github.com/rahulbal/VacuumCleanerOverlord/blob/master/screenshot4.png)
+
+When a certain maximum number of steps have been reached you can't proceed any further and must back track.
+I mean seriously backtrack. Pick up your chord. So as you go back the chord placed on the ground will get picked up.
+
+# Good luck have fun
