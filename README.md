@@ -49,6 +49,8 @@ Start location
 
 ![movement](https://github.com/rahulbal/VacuumCleanerOverlord/blob/master/screenshot2.png)
 
+![conversation](https://github.com/rahulbal/VacuumCleanerOverlord/blob/master/screenshot1.png)
+
 **Optional**
 As you move the chord is placed on the ground the remaining steps are updated
 
