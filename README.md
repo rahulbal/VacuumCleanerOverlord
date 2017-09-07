@@ -53,6 +53,7 @@ Start location
 
 **Optional**
 As you move the chord is placed on the ground the remaining steps are updated
+I think it better you dont allow going over your own cable. Save some effort.
 
 ![stepcount](https://github.com/rahulbal/VacuumCleanerOverlord/blob/master/screenshot3.png)
 
